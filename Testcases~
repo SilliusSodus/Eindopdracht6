@@ -1,0 +1,18 @@
+Test case 1:
+1. klik op open
+2. Kies een bestand dat geen virus .tsv bestand is
+3. Pop up geeft aan dat de file niet is gevonden.
+4. Geef op
+
+Test case 2:
+1. Type relevant pad naar het gewilde bestand
+2. Klik op open
+3. Kies "10036 (Mesocricetus auratus)" bij de combo box naast "Host ids"
+4. Bewonder een aantal virus id's bij het eerste text blok
+5. Kies "10036 (Mesocricetus auratus)" bij de tweede combo box naast "Host ids"
+6. Bewonder een aantal virus id's bij het tweede en derde text blok
+7. klik op "Host amount"
+8. Bewonder hoe alles verandert
+(optioneel)
+9. Gooi je pc/laptop uit het raam.
+10. Je hebt nu een zwart scherm met een barst.
